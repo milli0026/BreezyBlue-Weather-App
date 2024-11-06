@@ -1,6 +1,6 @@
 body {
-  background: #f9f7fe;
-  font-family: "Roboto", sans-serif;
+  background: #effffe;
+  font-family: "Fredoka", sans-serif;
 }
 
 a {
@@ -87,7 +87,8 @@ main {
   color: #085b7e;
   font-size: 28px;
   margin-top: 6px;
-  margin-right: 10px;
+  padding-left: 5px;
+  margin-right: 18px;
 }
 
 .weather-app-temperature-container {
