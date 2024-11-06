@@ -1,5 +1,5 @@
 body {
-  background: #effffe;
+  background-image: url(media/water-background.png);
   font-family: "Fredoka", sans-serif;
 }
 
@@ -8,7 +8,7 @@ a {
 }
 
 .weather-app {
-  background: white;
+  background: #ffffff;
   max-width: 600px;
   margin: 60px auto;
   padding: 30px;
